@@ -297,7 +297,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Albania": {
     "name": "Albania",
@@ -407,7 +408,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Algeria": {
     "name": "Algeria",
@@ -676,36 +678,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "American Samoa": {
-    "name": "American Samoa",
-    "continent": "Oceania",
-    "expectancy": "75.1",
-    "population": "55465",
-    "language": [
-      "English",
-      "Samoan",
-      "Tongan"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Andorra": {
-    "name": "Andorra",
-    "continent": "Europe",
-    "expectancy": "83.5",
-    "population": "77006",
-    "language": [
-      "Catalan",
-      "French",
-      "Portuguese",
-      "Spanish"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Angola": {
     "name": "Angola",
@@ -1039,17 +1013,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Anguilla": {
-    "name": "Anguilla",
-    "continent": "North America",
-    "expectancy": "76.1",
-    "population": "15094",
-    "language": "English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Antarctica": {
     "name": "Antarctica",
@@ -3719,20 +3684,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Antigua and Barbuda": {
-    "name": "Antigua and Barbuda",
-    "continent": "North America",
-    "expectancy": "70.5",
-    "population": "96286",
-    "language": [
-      "Creole English",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Argentina": {
     "name": "Argentina",
@@ -4244,7 +4197,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Armenia": {
     "name": "Armenia",
@@ -4345,22 +4299,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Aruba": {
-    "name": "Aruba",
-    "continent": "North America",
-    "expectancy": "78.4",
-    "population": "105845",
-    "language": [
-      "Dutch",
-      "English",
-      "Papiamento",
-      "Spanish"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Australia": {
     "name": "Australia",
@@ -5357,7 +5297,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Austria": {
     "name": "Austria",
@@ -5532,7 +5473,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Azerbaijan": {
     "name": "Azerbaijan",
@@ -5737,33 +5679,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Bahamas": {
-    "name": "Bahamas",
-    "continent": "North America",
-    "expectancy": "71.1",
-    "population": "385640",
-    "language": [
-      "Creole English",
-      "Creole French"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Bahrain": {
-    "name": "Bahrain",
-    "continent": "Asia",
-    "expectancy": "73",
-    "population": "1569439",
-    "language": [
-      "Arabic",
-      "English"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bangladesh": {
     "name": "Bangladesh",
@@ -5933,20 +5850,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Barbados": {
-    "name": "Barbados",
-    "continent": "North America",
-    "expectancy": "73",
-    "population": "286641",
-    "language": [
-      "Bajan",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Belarus": {
     "name": "Belarus",
@@ -6145,7 +6050,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Belgium": {
     "name": "Belgium",
@@ -6230,7 +6136,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Belize": {
     "name": "Belize",
@@ -6333,7 +6240,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Benin": {
     "name": "Benin",
@@ -6459,7 +6367,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bermuda": {
     "name": "Bermuda",
@@ -6821,7 +6730,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bhutan": {
     "name": "Bhutan",
@@ -6895,7 +6805,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bolivia": {
     "name": "Bolivia",
@@ -7158,7 +7069,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bosnia and Herzegovina": {
     "name": "Bosnia and Herzegovina",
@@ -7264,7 +7176,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Botswana": {
     "name": "Botswana",
@@ -7448,15 +7361,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Bouvet Island": {
-    "name": "Bouvet Island",
-    "continent": "Antarctica",
-    "expectancy": null,
-    "population": "0",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Brazil": {
     "name": "Brazil",
@@ -8292,15 +8198,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "British Indian Ocean Territory": {
-    "name": "British Indian Ocean Territory",
-    "continent": "Africa",
-    "expectancy": null,
-    "population": "0",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Brunei": {
     "name": "Brunei",
@@ -8355,7 +8254,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Bulgaria": {
     "name": "Bulgaria",
@@ -8490,7 +8390,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Burkina Faso": {
     "name": "Burkina Faso",
@@ -8671,7 +8572,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Burundi": {
     "name": "Burundi",
@@ -8745,7 +8647,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Cambodia": {
     "name": "Cambodia",
@@ -8836,7 +8739,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Cameroon": {
     "name": "Cameroon",
@@ -9107,7 +9011,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Canada": {
     "name": "Canada",
@@ -12424,30 +12329,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Cape Verde": {
-    "name": "Cape Verde",
-    "continent": "Africa",
-    "expectancy": "68.9",
-    "population": "543767",
-    "language": [
-      "Crioulo",
-      "Portuguese"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Cayman Islands": {
-    "name": "Cayman Islands",
-    "continent": "North America",
-    "expectancy": "78.9",
-    "population": "64174",
-    "language": "English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Central African Republic": {
     "name": "Central African Republic",
@@ -12720,7 +12603,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Chad": {
     "name": "Chad",
@@ -12979,7 +12863,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Chile": {
     "name": "Chile",
@@ -13464,7 +13349,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "China": {
     "name": "China",
@@ -14461,31 +14347,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Christmas Island": {
-    "name": "Christmas Island",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "1402",
-    "language": [
-      "Chinese",
-      "English"
-    ],
-    "visited": "false",
-    "visited cities": []
-  },
-  "Cocos (Keeling) Islands": {
-    "name": "Cocos (Keeling) Islands",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "596",
-    "language": [
-      "English",
-      "Malay"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Colombia": {
     "name": "Colombia",
@@ -14909,53 +14772,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Comoros": {
-    "name": "Comoros",
-    "continent": "Africa",
-    "expectancy": "60",
-    "population": "832322",
-    "language": [
-      "Comorian",
-      "Comorian-Arabic",
-      "Comorian-French",
-      "Comorian-madagassi",
-      "Comorian-Swahili"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Congo": {
-    "name": "Congo",
-    "continent": "Africa",
-    "expectancy": "47.4",
-    "population": "5244363",
-    "language": [
-      "Kongo",
-      "Mbete",
-      "Mboshi",
-      "Punu",
-      "Sango",
-      "Teke"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Cook Islands": {
-    "name": "Cook Islands",
-    "continent": "Oceania",
-    "expectancy": "71.1",
-    "population": "17379",
-    "language": [
-      "English",
-      "Maori"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Costa Rica": {
     "name": "Costa Rica",
@@ -15122,7 +14940,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Croatia": {
     "name": "Croatia",
@@ -15311,7 +15130,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Cuba": {
     "name": "Cuba",
@@ -15497,7 +15317,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Cyprus": {
     "name": "Cyprus",
@@ -15578,7 +15399,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Czech Republic": {
     "name": "Czech Republic",
@@ -15745,7 +15567,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Denmark": {
     "name": "Denmark",
@@ -15873,7 +15696,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Djibouti": {
     "name": "Djibouti",
@@ -15955,20 +15779,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Dominica": {
-    "name": "Dominica",
-    "continent": "North America",
-    "expectancy": "73.4",
-    "population": "71625",
-    "language": [
-      "Creole English",
-      "Creole French"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Dominican Republic": {
     "name": "Dominican Republic",
@@ -16093,7 +15905,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "East Timor": {
     "name": "East Timor",
@@ -16157,7 +15970,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ecuador": {
     "name": "Ecuador",
@@ -16310,7 +16124,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Egypt": {
     "name": "Egypt",
@@ -16499,7 +16314,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "El Salvador": {
     "name": "El Salvador",
@@ -16600,15 +16416,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "England": {
-    "name": "England",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "55619400",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Equatorial Guinea": {
     "name": "Equatorial Guinea",
@@ -16657,7 +16466,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Eritrea": {
     "name": "Eritrea",
@@ -16794,7 +16604,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Estonia": {
     "name": "Estonia",
@@ -16886,7 +16697,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ethiopia": {
     "name": "Ethiopia",
@@ -17148,7 +16960,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Falkland Islands": {
     "name": "Falkland Islands",
@@ -17206,31 +17019,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Faroe Islands": {
-    "name": "Faroe Islands",
-    "continent": "Europe",
-    "expectancy": "78.4",
-    "population": "48497",
-    "language": [
-      "Danish",
-      "Faroese"
-    ],
-    "visited": "false",
-    "visited cities": []
-  },
-  "Fiji Islands": {
-    "name": "Fiji Islands",
-    "continent": "Oceania",
-    "expectancy": "67.9",
-    "population": "883483",
-    "language": [
-      "Fijian",
-      "Hindi"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Finland": {
     "name": "Finland",
@@ -17406,7 +17196,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "France": {
     "name": "France",
@@ -17657,7 +17448,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "French Guiana": {
     "name": "French Guiana",
@@ -17754,29 +17546,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "French Polynesia": {
-    "name": "French Polynesia",
-    "continent": "Oceania",
-    "expectancy": "74.8",
-    "population": "277679",
-    "language": [
-      "Chinese",
-      "French",
-      "Tahitian"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "French Southern territories": {
-    "name": "French Southern territories",
-    "continent": "Antarctica",
-    "expectancy": null,
-    "population": "0",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Gabon": {
     "name": "Gabon",
@@ -17923,7 +17694,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Gambia": {
     "name": "Gambia",
@@ -18011,7 +17783,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Georgia": {
     "name": "Georgia",
@@ -18132,7 +17905,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Germany": {
     "name": "Germany",
@@ -18388,8 +18162,9 @@
         ]
       ]
     },
-    "visited": "false",
-    "visited cities": []
+    "visited": "true",
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ghana": {
     "name": "Ghana",
@@ -18514,20 +18289,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Gibraltar": {
-    "name": "Gibraltar",
-    "continent": "Europe",
-    "expectancy": "79",
-    "population": "33718",
-    "language": [
-      "Arabic",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Greece": {
     "name": "Greece",
@@ -18770,7 +18533,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Greenland": {
     "name": "Greenland",
@@ -19319,46 +19083,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Grenada": {
-    "name": "Grenada",
-    "continent": "North America",
-    "expectancy": "64.5",
-    "population": "111454",
-    "language": "Creole English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Guadeloupe": {
-    "name": "Guadeloupe",
-    "continent": "North America",
-    "expectancy": "77",
-    "population": "395700",
-    "language": [
-      "Creole French",
-      "French"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Guam": {
-    "name": "Guam",
-    "continent": "Oceania",
-    "expectancy": "77.8",
-    "population": "165768",
-    "language": [
-      "Chamorro",
-      "English",
-      "Japanese",
-      "Korean",
-      "Philippene Languages"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Guatemala": {
     "name": "Guatemala",
@@ -19522,7 +19248,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Guinea": {
     "name": "Guinea",
@@ -19828,24 +19555,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Guinea-Bissau": {
-    "name": "Guinea-Bissau",
-    "continent": "Africa",
-    "expectancy": "49",
-    "population": "1874309",
-    "language": [
-      "Balante",
-      "Crioulo",
-      "Ful",
-      "Malinke",
-      "Mandyako",
-      "Portuguese"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Guyana": {
     "name": "Guyana",
@@ -20027,7 +19738,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Haiti": {
     "name": "Haiti",
@@ -20132,24 +19844,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Heard Island and McDonald Islands": {
-    "name": "Heard Island and McDonald Islands",
-    "continent": "Antarctica",
-    "expectancy": null,
-    "population": "0",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Holy See (Vatican City State)": {
-    "name": "Holy See (Vatican City State)",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "825",
-    "language": "Italian",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Honduras": {
     "name": "Honduras",
@@ -20400,23 +20096,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Hong Kong": {
-    "name": "Hong Kong",
-    "continent": "Asia",
-    "expectancy": "79.5",
-    "population": "7451000",
-    "language": [
-      "Canton Chinese",
-      "Chiu chau",
-      "English",
-      "Fukien",
-      "Hakka"
-    ],
-    "religion": "Unaffiliated Religions",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Hungary": {
     "name": "Hungary",
@@ -20565,7 +20246,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Iceland": {
     "name": "Iceland",
@@ -20666,7 +20348,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "India": {
     "name": "India",
@@ -21250,7 +20933,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Indonesia": {
     "name": "Indonesia",
@@ -22329,7 +22013,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Iran": {
     "name": "Iran",
@@ -22658,7 +22343,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Iraq": {
     "name": "Iraq",
@@ -22802,7 +22488,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ireland": {
     "name": "Ireland",
@@ -22875,7 +22562,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Israel": {
     "name": "Israel",
@@ -22989,7 +22677,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Italy": {
     "name": "Italy",
@@ -23374,7 +23063,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ivory Coast": {
     "name": "Ivory Coast",
@@ -23581,7 +23271,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Jamaica": {
     "name": "Jamaica",
@@ -23646,7 +23337,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Japan": {
     "name": "Japan",
@@ -23941,7 +23633,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Jordan": {
     "name": "Jordan",
@@ -24039,7 +23732,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Kazakhstan": {
     "name": "Kazakhstan",
@@ -24512,7 +24206,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Kenya": {
     "name": "Kenya",
@@ -24689,20 +24384,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Kiribati": {
-    "name": "Kiribati",
-    "continent": "Oceania",
-    "expectancy": "59.8",
-    "population": "115847",
-    "language": [
-      "Kiribati",
-      "Tuvalu"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Kuwait": {
     "name": "Kuwait",
@@ -24759,7 +24442,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Kyrgyzstan": {
     "name": "Kyrgyzstan",
@@ -24925,7 +24609,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Laos": {
     "name": "Laos",
@@ -25096,7 +24781,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Latvia": {
     "name": "Latvia",
@@ -25209,7 +24895,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Lebanon": {
     "name": "Lebanon",
@@ -25275,7 +24962,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Lesotho": {
     "name": "Lesotho",
@@ -25345,7 +25033,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Liberia": {
     "name": "Liberia",
@@ -25480,33 +25169,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Libyan Arab Jamahiriya": {
-    "name": "Libyan Arab Jamahiriya",
-    "continent": "Africa",
-    "expectancy": "75.5",
-    "population": "6678567",
-    "language": [
-      "Arabic",
-      "Berberi"
-    ],
-    "visited": "false",
-    "visited cities": []
-  },
-  "Liechtenstein": {
-    "name": "Liechtenstein",
-    "continent": "Europe",
-    "expectancy": "78.8",
-    "population": "37910",
-    "language": [
-      "German",
-      "Italian",
-      "Turkish"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Lithuania": {
     "name": "Lithuania",
@@ -25606,7 +25270,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Luxembourg": {
     "name": "Luxembourg",
@@ -25658,30 +25323,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Macao": {
-    "name": "Macao",
-    "continent": "Asia",
-    "expectancy": "81.6",
-    "population": "631636",
-    "language": [
-      "Canton Chinese",
-      "English",
-      "Mandarin Chinese",
-      "Portuguese"
-    ],
-    "religion": "Folk Religions",
-    "visited": "false",
-    "visited cities": []
-  },
-  "North Macedonia": {
-    "name": "North Macedonia",
-    "continent": "Europe",
-    "expectancy": "73.8",
-    "population": "2084367",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Madagascar": {
     "name": "Madagascar",
@@ -25898,7 +25541,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Malawi": {
     "name": "Malawi",
@@ -26033,7 +25677,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Malaysia": {
     "name": "Malaysia",
@@ -26312,20 +25957,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Maldives": {
-    "name": "Maldives",
-    "continent": "Asia",
-    "expectancy": "62.2",
-    "population": "515696",
-    "language": [
-      "Dhivehi",
-      "English"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Mali": {
     "name": "Mali",
@@ -26654,7 +26287,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Malta": {
     "name": "Malta",
@@ -26745,33 +26379,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Marshall Islands": {
-    "name": "Marshall Islands",
-    "continent": "Oceania",
-    "expectancy": "65.5",
-    "population": "58413",
-    "language": [
-      "English",
-      "Marshallese"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Martinique": {
-    "name": "Martinique",
-    "continent": "North America",
-    "expectancy": "78.3",
-    "population": "376480",
-    "language": [
-      "Creole French",
-      "French"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Mauritania": {
     "name": "Mauritania",
@@ -26952,38 +26561,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Mauritius": {
-    "name": "Mauritius",
-    "continent": "Africa",
-    "expectancy": "71",
-    "population": "1265303",
-    "language": [
-      "Bhojpuri",
-      "Creole French",
-      "French",
-      "Hindi",
-      "Marathi",
-      "Tamil"
-    ],
-    "religion": "Hinduism",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Mayotte": {
-    "name": "Mayotte",
-    "continent": "Africa",
-    "expectancy": "59.5",
-    "population": "270372",
-    "language": [
-      "French",
-      "Mahor\u00e9",
-      "Malagasy"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Mexico": {
     "name": "Mexico",
@@ -27688,23 +27267,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Micronesia, Federated States of": {
-    "name": "Micronesia, Federated States of",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "112640",
-    "language": [
-      "Kosrean",
-      "Mortlock",
-      "Pohnpei",
-      "Trukese",
-      "Wolea",
-      "Yap"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Moldova": {
     "name": "Moldova",
@@ -27836,22 +27400,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Monaco": {
-    "name": "Monaco",
-    "continent": "Europe",
-    "expectancy": "78.8",
-    "population": "38682",
-    "language": [
-      "English",
-      "French",
-      "Italian",
-      "Monegasque"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Mongolia": {
     "name": "Mongolia",
@@ -28176,7 +27726,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Montenegro": {
     "name": "Montenegro",
@@ -28269,17 +27820,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Montserrat": {
-    "name": "Montserrat",
-    "continent": "North America",
-    "expectancy": "78",
-    "population": "5900",
-    "language": "English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Morocco": {
     "name": "Morocco",
@@ -28556,7 +28098,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Mozambique": {
     "name": "Mozambique",
@@ -28893,7 +28436,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Myanmar": {
     "name": "Myanmar",
@@ -29200,7 +28744,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Namibia": {
     "name": "Namibia",
@@ -29403,23 +28948,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Nauru": {
-    "name": "Nauru",
-    "continent": "Oceania",
-    "expectancy": "60.8",
-    "population": "12704",
-    "language": [
-      "Chinese",
-      "English",
-      "Kiribati",
-      "Nauru",
-      "Tuvalu"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Nepal": {
     "name": "Nepal",
@@ -29537,7 +29067,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Netherlands": {
     "name": "Netherlands",
@@ -29616,20 +29147,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Netherlands Antilles": {
-    "name": "Netherlands Antilles",
-    "continent": "North America",
-    "expectancy": "74.7",
-    "population": "227049",
-    "language": [
-      "Dutch",
-      "English",
-      "Papiamento"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "New Caledonia": {
     "name": "New Caledonia",
@@ -29703,7 +29222,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "New Zealand": {
     "name": "New Zealand",
@@ -29994,7 +29514,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Nicaragua": {
     "name": "Nicaragua",
@@ -30225,7 +29746,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Niger": {
     "name": "Niger",
@@ -30481,7 +30003,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Nigeria": {
     "name": "Nigeria",
@@ -30742,29 +30265,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Niue": {
-    "name": "Niue",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "1624",
-    "language": [
-      "English",
-      "Niue"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Norfolk Island": {
-    "name": "Norfolk Island",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "2169",
-    "language": "English",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "North Korea": {
     "name": "North Korea",
@@ -30957,32 +30459,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Northern Ireland": {
-    "name": "Northern Ireland",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "1885400",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Northern Mariana Islands": {
-    "name": "Northern Mariana Islands",
-    "continent": "Oceania",
-    "expectancy": "75.5",
-    "population": "56882",
-    "language": [
-      "Carolinian",
-      "Chamorro",
-      "Chinese",
-      "English",
-      "Korean",
-      "Philippene Languages"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Norway": {
     "name": "Norway",
@@ -31372,7 +30850,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Oman": {
     "name": "Oman",
@@ -31587,7 +31066,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Pakistan": {
     "name": "Pakistan",
@@ -31878,35 +31358,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Palau": {
-    "name": "Palau",
-    "continent": "Oceania",
-    "expectancy": "68.6",
-    "population": "17907",
-    "language": [
-      "Chinese",
-      "English",
-      "Palau",
-      "Philippene Languages"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Palestine": {
-    "name": "Palestine",
-    "continent": "Asia",
-    "expectancy": "71.4",
-    "population": "4569087",
-    "language": [
-      "Arabic",
-      "Hebrew"
-    ],
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Panama": {
     "name": "Panama",
@@ -32139,7 +31592,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Papua New Guinea": {
     "name": "Papua New Guinea",
@@ -32498,7 +31952,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Paraguay": {
     "name": "Paraguay",
@@ -32653,7 +32108,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Peru": {
     "name": "Peru",
@@ -32979,7 +32435,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Philippines": {
     "name": "Philippines",
@@ -33474,16 +32931,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Pitcairn": {
-    "name": "Pitcairn",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "67",
-    "language": "Pitcairnese",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Poland": {
     "name": "Poland",
@@ -33686,7 +33135,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Portugal": {
     "name": "Portugal",
@@ -33836,7 +33286,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Puerto Rico": {
     "name": "Puerto Rico",
@@ -33893,7 +33344,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Qatar": {
     "name": "Qatar",
@@ -33950,23 +33402,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Reunion": {
-    "name": "Reunion",
-    "continent": "Africa",
-    "expectancy": "72.7",
-    "population": "859959",
-    "language": [
-      "Chinese",
-      "Comorian",
-      "Creole French",
-      "Malagasy",
-      "Tamil"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Romania": {
     "name": "Romania",
@@ -34167,29 +33604,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Russian Federation": {
-    "name": "Russian Federation",
-    "continent": "Europe",
-    "expectancy": "67.2",
-    "population": "144478050",
-    "language": [
-      "Avarian",
-      "Bashkir",
-      "Belorussian",
-      "Chechen",
-      "Chuvash",
-      "Kazakh",
-      "Mari",
-      "Mordva",
-      "Russian",
-      "Tatar",
-      "Udmur",
-      "Ukrainian"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Rwanda": {
     "name": "Rwanda",
@@ -34262,103 +33678,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Saint Helena": {
-    "name": "Saint Helena",
-    "continent": "Africa",
-    "expectancy": "76.8",
-    "population": "6600",
-    "language": "English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Saint Kitts and Nevis": {
-    "name": "Saint Kitts and Nevis",
-    "continent": "North America",
-    "expectancy": "70.7",
-    "population": "52441",
-    "language": [
-      "Creole English",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Saint Lucia": {
-    "name": "Saint Lucia",
-    "continent": "North America",
-    "expectancy": "72.3",
-    "population": "181889",
-    "language": [
-      "Creole French",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Saint Pierre and Miquelon": {
-    "name": "Saint Pierre and Miquelon",
-    "continent": "North America",
-    "expectancy": "77.6",
-    "population": "5888",
-    "language": "French",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Saint Vincent and the Grenadines": {
-    "name": "Saint Vincent and the Grenadines",
-    "continent": "North America",
-    "expectancy": "72.3",
-    "population": "110210",
-    "language": [
-      "Creole English",
-      "English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Samoa": {
-    "name": "Samoa",
-    "continent": "Oceania",
-    "expectancy": "69.2",
-    "population": "196130",
-    "language": [
-      "English",
-      "Samoan",
-      "Samoan-English"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "San Marino": {
-    "name": "San Marino",
-    "continent": "Europe",
-    "expectancy": "81.1",
-    "population": "33785",
-    "language": "Italian",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Sao Tome and Principe": {
-    "name": "Sao Tome and Principe",
-    "continent": "Africa",
-    "expectancy": "65.3",
-    "population": "211028",
-    "language": [
-      "Crioulo",
-      "French"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Saudi Arabia": {
     "name": "Saudi Arabia",
@@ -34680,15 +34001,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Scotland": {
-    "name": "Scotland",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "5424800",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Senegal": {
     "name": "Senegal",
@@ -34889,21 +34203,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Seychelles": {
-    "name": "Seychelles",
-    "continent": "Africa",
-    "expectancy": "70.4",
-    "population": "96762",
-    "language": [
-      "English",
-      "French",
-      "Seselwa"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Sierra Leone": {
     "name": "Sierra Leone",
@@ -35018,21 +34319,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Singapore": {
-    "name": "Singapore",
-    "continent": "Asia",
-    "expectancy": "80.1",
-    "population": "5638676",
-    "language": [
-      "Chinese",
-      "Malay",
-      "Tamil"
-    ],
-    "religion": "Buddhism",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Slovakia": {
     "name": "Slovakia",
@@ -35188,7 +34476,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Slovenia": {
     "name": "Slovenia",
@@ -35282,7 +34571,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Solomon Islands": {
     "name": "Solomon Islands",
@@ -35470,7 +34760,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Somalia": {
     "name": "Somalia",
@@ -35635,7 +34926,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "South Africa": {
     "name": "South Africa",
@@ -36043,15 +35335,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "South Georgia and the South Sandwich Islands": {
-    "name": "South Georgia and the South Sandwich Islands",
-    "continent": "Antarctica",
-    "expectancy": null,
-    "population": "30",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "South Korea": {
     "name": "South Korea",
@@ -36148,7 +35433,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "South Sudan": {
     "name": "South Sudan",
@@ -36417,7 +35703,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Spain": {
     "name": "Spain",
@@ -36644,7 +35931,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Sri Lanka": {
     "name": "Sri Lanka",
@@ -36704,7 +35992,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Sudan": {
     "name": "Sudan",
@@ -37049,7 +36338,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Suriname": {
     "name": "Suriname",
@@ -37174,19 +36464,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Svalbard and Jan Mayen": {
-    "name": "Svalbard and Jan Mayen",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "2572",
-    "language": [
-      "Norwegian",
-      "Russian"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Swaziland": {
     "name": "Swaziland",
@@ -37251,7 +36530,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Sweden": {
     "name": "Sweden",
@@ -37578,7 +36858,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Switzerland": {
     "name": "Switzerland",
@@ -37697,7 +36978,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Syria": {
     "name": "Syria",
@@ -37826,7 +37108,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Tajikistan": {
     "name": "Tajikistan",
@@ -38012,29 +37295,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Tanzania": {
-    "name": "Tanzania",
-    "continent": "Africa",
-    "expectancy": "52.3",
-    "population": "56318348",
-    "language": [
-      "Chaga and Pare",
-      "Gogo",
-      "Ha",
-      "Haya",
-      "Hehet",
-      "Luguru",
-      "Makonde",
-      "Nyakusa",
-      "Nyamwesi",
-      "Shambala",
-      "Swahili"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Thailand": {
     "name": "Thailand",
@@ -38315,15 +37577,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "The Democratic Republic of Congo": {
-    "name": "The Democratic Republic of Congo",
-    "continent": "Africa",
-    "expectancy": null,
-    "population": "84068091",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Togo": {
     "name": "Togo",
@@ -38426,33 +37681,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Tokelau": {
-    "name": "Tokelau",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "1411",
-    "language": [
-      "English",
-      "Tokelau"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Tonga": {
-    "name": "Tonga",
-    "continent": "Oceania",
-    "expectancy": "67.9",
-    "population": "103197",
-    "language": [
-      "English",
-      "Tongan"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Trinidad and Tobago": {
     "name": "Trinidad and Tobago",
@@ -38506,7 +37736,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Tunisia": {
     "name": "Tunisia",
@@ -38652,7 +37883,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Turkey": {
     "name": "Turkey",
@@ -38948,7 +38180,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Turkmenistan": {
     "name": "Turkmenistan",
@@ -39187,31 +38420,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Turks and Caicos Islands": {
-    "name": "Turks and Caicos Islands",
-    "continent": "North America",
-    "expectancy": "73.3",
-    "population": "37665",
-    "language": "English",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Tuvalu": {
-    "name": "Tuvalu",
-    "continent": "Oceania",
-    "expectancy": "66.3",
-    "population": "11508",
-    "language": [
-      "English",
-      "Kiribati",
-      "Tuvalu"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Uganda": {
     "name": "Uganda",
@@ -39348,7 +38558,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Ukraine": {
     "name": "Ukraine",
@@ -39766,7 +38977,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "United Arab Emirates": {
     "name": "United Arab Emirates",
@@ -39875,7 +39087,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "United Kingdom": {
     "name": "United Kingdom",
@@ -40127,39 +39340,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "United States": {
-    "name": "United States",
-    "continent": "North America",
-    "expectancy": "77.1",
-    "population": "326687501",
-    "language": [
-      "Chinese",
-      "English",
-      "French",
-      "German",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Portuguese",
-      "Spanish",
-      "Tagalog",
-      "Vietnamese"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "United States Minor Outlying Islands": {
-    "name": "United States Minor Outlying Islands",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "300",
-    "language": "English",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Uruguay": {
     "name": "Uruguay",
@@ -40261,7 +39443,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Uzbekistan": {
     "name": "Uzbekistan",
@@ -40502,7 +39685,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Vanuatu": {
     "name": "Vanuatu",
@@ -40578,7 +39762,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Venezuela": {
     "name": "Venezuela",
@@ -40968,7 +40153,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Vietnam": {
     "name": "Vietnam",
@@ -41172,50 +40358,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Virgin Islands, British": {
-    "name": "Virgin Islands, British",
-    "continent": "North America",
-    "expectancy": null,
-    "population": "29802",
-    "language": "English",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Virgin Islands, U.S.": {
-    "name": "Virgin Islands, U.S.",
-    "continent": "North America",
-    "expectancy": null,
-    "population": "106977",
-    "language": [
-      "English",
-      "French",
-      "Spanish"
-    ],
-    "visited": "false",
-    "visited cities": []
-  },
-  "Wales": {
-    "name": "Wales",
-    "continent": "Europe",
-    "expectancy": null,
-    "population": "3139000",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Wallis and Futuna": {
-    "name": "Wallis and Futuna",
-    "continent": "Oceania",
-    "expectancy": null,
-    "population": "15289",
-    "language": [
-      "Futuna",
-      "Wallis"
-    ],
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Western Sahara": {
     "name": "Western Sahara",
@@ -41345,7 +40489,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Yemen": {
     "name": "Yemen",
@@ -41542,22 +40687,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Yugoslavia": {
-    "name": "Yugoslavia",
-    "continent": "Europe",
-    "expectancy": "72.4",
-    "language": [
-      "Albaniana",
-      "Hungarian",
-      "Macedonian",
-      "Romani",
-      "Serbo-Croatian",
-      "Slovak"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Zambia": {
     "name": "Zambia",
@@ -41826,7 +40957,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Zimbabwe": {
     "name": "Zimbabwe",
@@ -41997,31 +41129,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "SriLanka": {
-    "name": "SriLanka",
-    "expectancy": null,
-    "population": "21670000",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Congo, The Democratic Republic of the": {
-    "name": "Congo, The Democratic Republic of the",
-    "language": [
-      "Boa",
-      "Chokwe",
-      "Kongo",
-      "Luba",
-      "Mongo",
-      "Ngala and Bangi",
-      "Rundi",
-      "Rwanda",
-      "Teke",
-      "Zande"
-    ],
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Macedonia": {
     "name": "Macedonia",
@@ -42110,7 +41219,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Taiwan": {
     "name": "Taiwan",
@@ -42168,61 +41278,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Asia-Pacific": {
-    "name": "Asia-Pacific",
-    "religion": "Hinduism",
-    "visited": "false",
-    "visited cities": []
-  },
-  "British Virgin Islands": {
-    "name": "British Virgin Islands",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Caribbean Netherlands": {
-    "name": "Caribbean Netherlands",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Channel Islands": {
-    "name": "Channel Islands",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Cote d'Ivoire": {
-    "name": "Cote d'Ivoire",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Curacao": {
-    "name": "Curacao",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Democratic Republic of Congo": {
-    "name": "Democratic Republic of Congo",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Europe": {
-    "name": "Europe",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Faeroe Islands": {
-    "name": "Faeroe Islands",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Fiji": {
     "name": "Fiji",
@@ -42334,13 +41391,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Isle of Man": {
-    "name": "Isle of Man",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Kosovo": {
     "name": "Kosovo",
@@ -42438,13 +41490,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Latin America-Caribbean": {
-    "name": "Latin America-Caribbean",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Libya": {
     "name": "Libya",
@@ -42682,25 +41729,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Micronesia (country)": {
-    "name": "Micronesia (country)",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Middle East-North Africa": {
-    "name": "Middle East-North Africa",
-    "religion": "Islam",
-    "visited": "false",
-    "visited cities": []
-  },
-  "North America": {
-    "name": "North America",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Russia": {
     "name": "Russia",
@@ -45156,43 +44186,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
-  },
-  "Serbia": {
-    "name": "Serbia",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Sint Maarten (Dutch part)": {
-    "name": "Sint Maarten (Dutch part)",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Sub-Saharan Africa": {
-    "name": "Sub-Saharan Africa",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Timor": {
-    "name": "Timor",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "United States Virgin Islands": {
-    "name": "United States Virgin Islands",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
-  },
-  "Vatican": {
-    "name": "Vatican",
-    "religion": "Christianity",
-    "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "French Southern and Antarctic Lands": {
     "id": "ATF",
@@ -45240,7 +44235,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "The Bahamas": {
     "id": "BHS",
@@ -45346,7 +44342,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Democratic Republic of the Congo": {
     "id": "COD",
@@ -45846,7 +44843,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Republic of the Congo": {
     "id": "COG",
@@ -46054,7 +45052,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Northern Cyprus": {
     "id": "-99",
@@ -46130,7 +45129,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Guinea Bissau": {
     "id": "GNB",
@@ -46218,7 +45218,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Somaliland": {
     "id": "-99",
@@ -46326,7 +45327,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "Republic of Serbia": {
     "id": "SRB",
@@ -46522,7 +45524,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "United Republic of Tanzania": {
     "id": "TZA",
@@ -46730,7 +45733,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "United States of America": {
     "id": "USA",
@@ -48552,7 +47556,8 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   },
   "West Bank": {
     "id": "PSE",
@@ -48600,6 +47605,7 @@
       ]
     },
     "visited": "false",
-    "visited cities": []
+    "visited cities": [],
+    "hovered": "false"
   }
 }

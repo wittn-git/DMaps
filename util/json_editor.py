@@ -19,7 +19,7 @@ def add_categoryentry(data, country_name, category_entry, category):
 
 
 #opening and loading to json the main data file
-file = open('countries.json')
+file = open('../data/countries.json')
 file_content = file.read()
 data = json.loads(file_content)
 
@@ -45,10 +45,14 @@ elif(input('Enter "y" for own category and values.\n') == 'y'):
 else:
 
     #entering, opening and loading to json the file to pull new data from
-    file = open(input('Enter file\n'))
-    file_content = file.read()
-    new_data = json.loads(file_content)
 
+    try:
+        file = open(input('Enter file\n'))
+        file_content = file.read()
+        new_data = json.loads(file_content)
+    except FileNotFoundError as e:
+        pass
+    
     #choose if the file to be extracted a geo.json
     if(input('Enter "y" for geo.json\n') == 'y'):
         
@@ -60,7 +64,8 @@ else:
             categories = ['id', 'geometry']
             for category in categories:
                 data = add_categoryentry(data, country_name, country[category], category)
-    else:
+
+    elif((input('Enter "y" for adding a category from another file.\n') == 'y')):
 
         #entering the new category to be added to main file entries
         category = input('Enter category\n')
@@ -75,7 +80,18 @@ else:
             #add the categoryentry
             data = add_categoryentry(data, country_name, country[category], category)
 
+def clear_data(data):
+    removing_keys = []
+    for key in data:
+        if not 'geometry' in data[key]:
+              removing_keys.append(key)
+    for key in removing_keys:
+        del data[key]
+
+#remove data which doesn't contain geometric values
+clear_data(data)
+
 #write the updated json to the main file
 file_content = json.dumps(data, indent=2)
-file = open('countries.json', 'w')
+file = open('../data/countries.json', 'w')
 file.write(file_content)
