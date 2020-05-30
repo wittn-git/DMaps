@@ -1,12 +1,12 @@
 import json
-from tkinter import Tk, Frame, Button
+from tkinter import Tk, Button
 import tkinter
 import matplotlib.pyplot as plt 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib
-from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
 from matplotlib.figure import Figure
 from descartes import PolygonPatch
+from shapely.geometry import shape, Point 
 
 root = tkinter.Tk()
 root.wm_title("DMaps")
@@ -48,33 +48,47 @@ class MapFigure:
             self.figure.clf()
             fig = self.figure
         except:
-            fig = plt.figure()
+            fig = plt.figure(figsize=(w/100,h/100), dpi=100)
+        
         ax = fig.gca() 
         for polygon_patch in polygons:
             ax.add_patch(polygon_patch)
         ax.axis('scaled')
-        plt.axis('off')
+        #plt.axis('off')
         fig.add_axes(ax)
-        fig.subplots_adjust(left=-0.04, bottom=-0.23, right=1.04, top=1.2, wspace=0, hspace=0)
+        #fig.subplots_adjust(left=-0.04, bottom=-0.23, right=1.04, top=1.2, wspace=0, hspace=0)
+        plt.tight_layout()
         return fig
 
     def refresh(self, point):
+        point = self.translate_point(point)
+        point = Point(-8, 17)
         for key in self.countries:
-            polygon = self.create_polygon(self.countries[key]['geometry'], '#6699cc')
-            if polygon.contains_point(point):
+            polygon = shape(self.countries[key]['geometry'])
+            if polygon.contains(point):
                 self.countries[key]['hovered'] = 'true'
+                break
             else:
                 self.countries[key]['hovered'] = 'false'
         self.figure = self.create_figure()
+    
+    def translate_point(self, point):
+        mid = Point(w/2, h/2)
+        xax = self.figure.gca().get_xlim()
+        yax = self.figure.gca().get_ylim()
+        new_point = Point(mid.x-point.x, mid.y-point.y) 
+        relations = (abs(xax[0]-xax[1])/w, abs(yax[0]-yax[1])/h)
+        translated_point = Point(new_point.x*relations[0], new_point.y*relations[1])
+        #print('translated: {}'.format((translated_point.x, translated_point.y)))
+        print()
+        return translated_point
 
-class Canvas:
+class DCanvas:
     def __init__(self, parent):
         self.map_figure = MapFigure((w, h))
         self.figure = self.map_figure.get_figure()
         self.canvas = FigureCanvasTkAgg(self.figure, master=parent)
-        self.canvas.get_tk_widget().config(width=w,height=h)
-        #self.canvas.get_tk_widget().pack(fill='both', expand=True)
-        self.canvas.get_tk_widget().pack()
+        self.canvas.get_tk_widget().pack(fill='both', expand=True)
         self.canvas.draw()
 
     def refresh(self, parent, point):
@@ -86,10 +100,12 @@ class Canvas:
         return self.canvas.get_width_height()
             
 def motion(event):
-    x_gap, y_gap = w-canvas.get_size()[0], h-canvas.get_size()[1]
-    x, y = event.x-x_gap, event.y-y_gap
-    canvas.refresh(root, (x, y))
 
-canvas = Canvas(root)
+    #x_gap, y_gap = w-canvas.get_size()[0], h-canvas.get_size()[1]
+    #x, y = event.x-x_gap, event.y-y_gap
+    #print('mouse: {}'.format((event.x, event.y)))
+    canvas.refresh(root, Point(event.x, event.y))
+
+canvas = DCanvas(root)
 root.bind('<Motion>', motion)
 root.mainloop()
